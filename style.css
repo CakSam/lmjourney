@@ -40,7 +40,7 @@ ul#slideshow-nav  li#slideshow-nav-5 a.active { background-position:-731px -42px
 /* SLIDER /////////////////////////////*/
 
 #slideshow { width: 844px; height: 404px; overflow-x: hidden; overflow-y: scroll;}  
-#slideshow ul { list-style: none; width: 3376px; }  
+#slideshow ul { list-style: none; width: 4220px; }  
 #slideshow ul li { float: left; }
 
 .sld{
